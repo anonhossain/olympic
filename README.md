@@ -1,5 +1,7 @@
 # 🏅 Olympic Dataset Analysis Project
 
+![Result](https://github.com/anonhossain/olympic/blob/main/result/Dashboard.PNG)
+
 ## 📌 Overview
 
 This project focuses on analyzing Olympic Games data using **Python**, storing it efficiently with **PostgreSQL**, and visualizing insights through an interactive **Power BI** dashboard. It demonstrates advanced data cleaning techniques and integrates data science tools for end-to-end analysis.
